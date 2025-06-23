@@ -3,6 +3,6 @@ def is_palindrome(s):
 string = input("Enter the word:")
 
 if is_palindrome:
- print("This is a palindrome")
+    print("This is a palindrome")
 else:
- print ("This is not a palindome")
+    print ("This is not a palindome")

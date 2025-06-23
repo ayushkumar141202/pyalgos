@@ -3,6 +3,7 @@ def is_even(n):
         print("The number is even")
     else:
         print("The number is odd")
-num = int(input("Enter the number:"))
+numString = input("Enter the number:")
+num = int(numString)
 is_even(num)
         
